@@ -63,7 +63,7 @@ CodeX is a web-based code editor that makes coding easier with powerful AI-drive
 
 1. Clone the repository
 ```bash
-git clone https://github.com/shubGupta10/CodeX-Editor
+git clone https://github.com/stym3112/CodeX-Editor
 ```
 
 2. Install dependencies
@@ -100,6 +100,6 @@ Distributed under the MIT License. See `LICENSE` for more information. -->
 ## 📞 Contact
 
 ## Project Maintainer  
-Contact Me here:  [Email](mailto:shubhamkgupta720@gmail.com)
+Contact Me here:  [Email](mailto:pandeysatyam3112@gmail.com)
 
-Project Link: [https://github.com/shubGupta10/CodeX-Editor](https://github.com/shubGupta10/CodeX-Editor)
+Project Link: [https://github.com/stym3112/CodeX-Editor](https://github.com/stym3112/CodeX-Editor)
